@@ -1,0 +1,31 @@
+{
+  "name": "automated-release-flow-template",
+  "version": "0.0.1",
+  "description": "Template to standardize software releases, utilizing Conventional Commits and Semantic Versioning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvena/automated-release-flow-template.git"
+  },
+  "keywords": [
+    "release",
+    "conventional",
+    "commits",
+    "semantic",
+    "versioning"
+  ],
+  "author": "Francisco Vena <fvena32@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvena/automated-release-flow-template/issues"
+  },
+  "homepage": "https://github.com/fvena/automated-release-flow-template#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.3"
+  }
+}
