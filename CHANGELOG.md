@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/fvena/automated-release-flow-template/compare/v1.2.0...v1.2.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* **api:** update base url ([ccbff18](https://github.com/fvena/automated-release-flow-template/commit/ccbff18018bf882f19bee5fe424f0a5ff680784e))
+
 # [1.2.0](https://github.com/fvena/automated-release-flow-template/compare/v1.1.1...v1.2.0) (2023-12-06)
 
 
