@@ -2,12 +2,16 @@
   "name": "automated-release-flow-template",
   "version": "0.0.1",
   "description": "Template to standardize software releases, utilizing Conventional Commits and Semantic Versioning.",
-  "main": "index.js",
+  "author": {
+    "name": "Francisco Vena",
+    "email": "fvena32@gmail.com",
+    "url": "https://www.fvena.com"
+  },
+  "license": "MIT",
   "scripts": {
     "prepare": "husky install",
     "commit": "commit",
-    "semantic-release": "semantic-release",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -20,8 +24,6 @@
     "semantic",
     "versioning"
   ],
-  "author": "Francisco Vena <fvena32@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fvena/automated-release-flow-template/issues"
   },
@@ -31,10 +33,7 @@
     "@commitlint/config-conventional": "^18.4.3",
     "@commitlint/prompt-cli": "^18.4.3",
     "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/commit-analyzer": "^11.1.0",
     "@semantic-release/git": "^10.0.1",
-    "@semantic-release/github": "^9.2.4",
-    "@semantic-release/release-notes-generator": "^12.1.0",
     "husky": "^8.0.3",
     "semantic-release": "^22.0.10"
   }
