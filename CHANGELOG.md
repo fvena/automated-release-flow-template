@@ -1,3 +1,13 @@
+# [1.2.0](https://github.com/fvena/automated-release-flow-template/compare/v1.1.1...v1.2.0) (2023-12-06)
+
+
+### Features
+
+* **login:** create login page layout ([67b2e9d](https://github.com/fvena/automated-release-flow-template/commit/67b2e9d5b30f467ed9c592a4b2b07739ce05392d))
+* **login:** implement authentication logic for login ([701fc9a](https://github.com/fvena/automated-release-flow-template/commit/701fc9acd9c6c38be3d7f225f9949a785880d4c1))
+* **login:** implement OAuth login functionality ([107f2bc](https://github.com/fvena/automated-release-flow-template/commit/107f2bcabd4fb421ecbc816ba592ba23ea8b6279))
+* **login:** integrate social media login options ([aaec4df](https://github.com/fvena/automated-release-flow-template/commit/aaec4dff9baa2d36a4cd31eabf0a5c487f63b7c5))
+
 ## [1.1.1](https://github.com/fvena/automated-release-flow-template/compare/v1.1.0...v1.1.1) (2023-12-06)
 
 
