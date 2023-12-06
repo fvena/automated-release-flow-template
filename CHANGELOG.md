@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/fvena/automated-release-flow-template/compare/v1.1.0...v1.1.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* **profile:** resolve slow image loading in user profiles ([1d94116](https://github.com/fvena/automated-release-flow-template/commit/1d941165875c670860bdd8138477eace7527b872))
+
 # [1.1.0](https://github.com/fvena/automated-release-flow-template/compare/v1.0.0...v1.1.0) (2023-12-06)
 
 
